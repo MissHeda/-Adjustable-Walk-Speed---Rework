@@ -1,5 +1,5 @@
-<p align="center">
-#  Adjustable Walk Speed - Rework
+# <p align="center">
+Adjustable Walk Speed - Rework
 </p>
 
 <p align="center">
