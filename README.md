@@ -1,6 +1,4 @@
-# <p align="center">
-Adjustable Walk Speed - Rework
-</p>
+# Adjustable Walk Speed - Rework
 
 <p align="center">
     <sup><strong>Download latest release on <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3235153536">Steam</a><br/>
