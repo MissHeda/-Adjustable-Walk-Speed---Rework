@@ -37,6 +37,6 @@
 
 - [Discord](https://discord.gg/Jud6gyzFYx)
 
-## Required
+## Requirements
 
 - [CBA_A3 v3.17.1.240424 or later](https://steamcommunity.com/sharedfiles/filedetails/?id=450814997)
