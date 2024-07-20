@@ -3,12 +3,13 @@
 <p align="center">
     <sup><strong>Download latest release on <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3235153536">Steam</a><br/>
     Visit us on <a href="https://discord.gg/Jud6gyzFYx">Discord</a></strong></sup>
-    
-This mod allows you to change the animation speed for any animation (including custom ones)
-in Arma 3. While being mainly made as a rework for adjusting the walking speed it now provides
-you with the functionality to whitelist any animation you want and set its speed.
-It works with and without ACE 3.
+</p>
 
+<p align="center">
+    This mod allows you to change the animation speed for any animation (including custom ones)
+    in Arma 3. While being mainly made as a rework for adjusting the walking speed it now provides
+    you with the functionality to whitelist any animation you want and set its speed.
+    It works with and without ACE 3.
 </p>
 
 ## Big thanks to
