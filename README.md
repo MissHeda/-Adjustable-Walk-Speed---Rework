@@ -13,7 +13,7 @@ It works with and without ACE 3.**
 
 ## Big thanks to
 
-- [Rad]()
+- Rad
 
 ## Note from the current Developers
 - Currently there is no active development on this mod.
