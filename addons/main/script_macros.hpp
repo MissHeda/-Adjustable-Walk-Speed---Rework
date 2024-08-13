@@ -24,8 +24,8 @@
 
 #define MOVE_ERECT_TACTICAL_RAISED_RIFLE_ANIMATIONS ["AmovPercMtacSrasWrflDb","AmovPercMtacSrasWrflDbl","AmovPercMtacSrasWrflDbr","AmovPercMtacSrasWrflDf","AmovPercMtacSrasWrflDfl","AmovPercMtacSrasWrflDfr","AmovPercMtacSrasWrflDl","AmovPercMtacSrasWrflDr"]
 #define MOVE_KNEEL_TACTICAL_RAISED_RIFLE_ANIMATIONS ["AmovPknlMtacSrasWrflDb","AmovPknlMtacSrasWrflDbl","AmovPknlMtacSrasWrflDbr","AmovPknlMtacSrasWrflDf","AmovPknlMtacSrasWrflDfl","AmovPknlMtacSrasWrflDfr","AmovPknlMtacSrasWrflDl","AmovPknlMtacSrasWrflDr"]
-#define MOVE_ERECT_TACTICAL_RAISED_PISTOLE_ANIMATIONS ["AmovPercMtacSrasWpstDb","AmovPercMtacSrasWpstDbl","AmovPercMtacSrasWpstDbr","AmovPercMtacSrasWpstDf","AmovPercMtacSrasWpstDfr","AmovPercMtacSrasWpstDl","AmovPercMtacSrasWpstDr"]
-#define MOVE_KNEEL_TACTICAL_RAISED_PISTOLE_ANIMATIONS ["AmovPknlMtacSrasWpstDb","AmovPknlMtacSrasWpstDbl","AmovPknlMtacSrasWpstDbr","AmovPknlMtacSrasWpstDf","AmovPknlMtacSrasWpstDfr","AmovPknlMtacSrasWpstDl","AmovPknlMtacSrasWpstDr"]
+#define MOVE_ERECT_TACTICAL_RAISED_PISTOLE_ANIMATIONS ["AmovPercMtacSrasWpstDb","AmovPercMtacSrasWpstDbl","AmovPercMtacSrasWpstDbr","AmovPercMtacSrasWpstDf","AmovPercMtacSrasWpstDfl","AmovPercMtacSrasWpstDfr","AmovPercMtacSrasWpstDl","AmovPercMtacSrasWpstDr"]
+#define MOVE_KNEEL_TACTICAL_RAISED_PISTOLE_ANIMATIONS ["AmovPknlMtacSrasWpstDb","AmovPknlMtacSrasWpstDbl","AmovPknlMtacSrasWpstDbr","AmovPknlMtacSrasWpstDf","AmovPknlMtacSrasWpstDfl","AmovPknlMtacSrasWpstDfr","AmovPknlMtacSrasWpstDl","AmovPknlMtacSrasWpstDr"]
 #define ALL_MOVE_TACTICAL_ANIMATIONS MOVE_ERECT_TACTICAL_RAISED_RIFLE_ANIMATIONS + MOVE_KNEEL_TACTICAL_RAISED_RIFLE_ANIMATIONS + MOVE_ERECT_TACTICAL_RAISED_PISTOLE_ANIMATIONS + MOVE_KNEEL_TACTICAL_RAISED_PISTOLE_ANIMATIONS
 
 // Additional Animations (note: jogging is under run category and not included here)
