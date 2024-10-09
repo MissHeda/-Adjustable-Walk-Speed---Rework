@@ -90,33 +90,11 @@ switch (_displayCondition) do {
         systemchat (format [_text, (str _value) + "%"]);
     };
     case "custom": {
-
-        // Create layer to display info (TEMP HOTFIX)
-        if (!(QGVAR(speedDisplay_onLoadSave) in allCutLayers) || GETVAR(_unit,GVAR(IGUIfix),false)) then {
-            
-            QGVAR(speedDisplay_onLoadSave) call BIS_fnc_rscLayer cutRsc [_IGUItoDisplay, "PLAIN", 1];
-            SETVAR(_unit,GVAR(IGUIfix),false);
-
-            [
-                {
-                    params ["_unit"];
-                    SETVAR(_unit,GVAR(IGUIfix),true);
-                }, 
-                [
-                    _unit
-                ], 
-                5
-            ] call CBA_fnc_waitAndExecute;
-        };
-
-        // AFTER ARMA FIXES IGUI STACKING (Next update after 07.05.24) DELETE THE ABOVE AND REPLACE WITH:
-        // QGVAR(speedDisplay_onLoadSave) call BIS_fnc_rscLayer cutRsc [_IGUItoDisplay, "PLAIN", 1];
+        
+        QGVAR(speedDisplay_onLoadSave) call BIS_fnc_rscLayer cutRsc [_IGUItoDisplay, "PLAIN", 1];
 
         // Get IGUI
         private _display = uiNamespace getvariable [QGVAR(speedDisplay_onLoadSave), displayNull];
-        
-        // If IGUI does not exist exit
-        // if(isNull _display) exitWith { systemChat "EXIT NO DISPLAY"; }; 
         
         // Get textSize controll
         private _control = _display displayCtrl 1001;
